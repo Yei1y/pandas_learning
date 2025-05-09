@@ -1,7 +1,7 @@
 # Pandas Learning Project
 
 ## 项目简介
-这是一个用于学习 Pandas 数据处理和分析的项目。通过 Jupyter Notebook，我记录了 Pandas 的基本用法，主要包括数据结构（如 Series 和 DataFrame）、数据操作（如筛选、排序、聚合）等内容。
+这是一个新手用于学习 Pandas 数据处理和分析并尝试代码的上传的练手项目。通过 Jupyter Notebook，我记录了 Pandas 的基本用法，主要包括数据结构（如 Series 和 DataFrame）、数据操作（如筛选、排序、聚合）等内容。
 
 ## 项目结构
 ```
