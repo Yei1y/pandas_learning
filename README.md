@@ -9,13 +9,13 @@ pandas_learning/
 ├── Series.ipynb
 ├── dataframe.ipynb
 ├── output.csv
-├── property-data.csv
+├── train.csv
 └── README.md
 ```
 - **`Series.ipynb`**：介绍 Pandas 中的 Series 数据结构及其基本操作。
 - **`dataframe.ipynb`**：介绍 Pandas 中的 DataFrame 数据结构及其操作，包括数据筛选、排序和聚合等。
 - **`output.csv`**：一个示例输出文件，用于展示数据处理的结果。
-- **`property-data.csv`**：一个示例数据文件，用于练习数据处理和分析。
+- **`train.csv`**：一个示例数据文件，用于练习数据处理和分析。
 
 ## 环境要求
 - **Python**：推荐使用 Python 3.11。
@@ -47,7 +47,7 @@ pandas_learning/
 ## 使用说明
 - **`Series.ipynb`**：运行该 Notebook，逐步学习 Pandas 中的 Series 数据结构及其操作，如创建、索引、筛选等。
 - **`dataframe.ipynb`**：运行该 Notebook，学习如何使用 DataFrame 进行复杂的数据处理，如数据筛选、分组、聚合等。
-- **数据文件**：`property-data.csv` 是一个示例数据文件，你可以使用它来练习数据处理和分析。
+- **数据文件**：`train.csv` 是一个示例数据文件，你可以使用它来练习数据处理和分析。
 
 ## 示例代码
 以下是一个简单的 Pandas 示例代码，展示如何创建一个 DataFrame 并进行基本操作：
@@ -78,7 +78,9 @@ print(filtered_df)
 
 ## 贡献指南
 欢迎任何人对本项目进行贡献！如果你有任何改进意见或发现错误，请随时提交 Issue 或 Pull Request。
+
 代码改编来源为[菜鸟教程](https://www.runoob.com/pandas/pandas-tutorial.html)
+
 数据清洗csv来源为[kaggle 房价预测](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
 ## 许可证
