@@ -78,7 +78,8 @@ print(filtered_df)
 
 ## 贡献指南
 欢迎任何人对本项目进行贡献！如果你有任何改进意见或发现错误，请随时提交 Issue 或 Pull Request。
-代码改编来源以及相关练习csv文件来自[菜鸟教程](https://www.runoob.com/pandas/pandas-tutorial.html)
+代码改编来源为[菜鸟教程](https://www.runoob.com/pandas/pandas-tutorial.html)
+数据清洗csv来源为[kaggle 房价预测](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
 ## 许可证
 本项目采用 [MIT License](LICENSE)。
